@@ -1,5 +1,7 @@
-export default function Home() {
+import HomePage from '@/components/webpages/HomePage';
+
+export default function Page() {
   return (
-    <>Bing Chilling</>
+    <HomePage />
   );
 }
