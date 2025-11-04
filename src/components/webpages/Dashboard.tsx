@@ -1,13 +1,13 @@
 import NavBar from '@/components/layout/Navbar';
 import Footer from '@/components/layout/Footer';
-import '@/components/webpages/HomePage.css';
+import '@/components/webpages/Dashboard.css';
 
-export default function HomePage() {
+export default function Dashboard() {
   return (
     <>
       <NavBar />
       <main>
-        <h1>Bing Chilling</h1>
+        <h1>This is Dashboard</h1>
       </main>
       <Footer />
     </>
