@@ -13,6 +13,12 @@
     align-items: center;
 }
 
+.nav-logo {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
 .nav-logo a {
     font-size: 1.5rem;
     font-weight: bold;
